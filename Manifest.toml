@@ -1524,7 +1524,9 @@ version = "0.3.3"
 
 [[deps.PlotMatrix]]
 deps = ["CairoMakie", "Colors", "DataFrames", "Printf", "Reexport", "Statistics"]
-path = "/Users/lukasfritsch/.julia/dev/PlotMatrix"
+git-tree-sha1 = "99399c18aa241fea89efd21b598ff704856ced25"
+repo-rev = "main"
+repo-url = "https://github.com/lukasfritsch/PlotMatrix.jl"
 uuid = "1e92ed4b-f78e-4f95-a6d1-b589d95ad1c8"
 version = "1.0.0-DEV"
 
