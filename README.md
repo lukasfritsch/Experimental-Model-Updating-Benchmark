@@ -1,4 +1,4 @@
-# Bayesian Model Updating Benchmark in UncertaintyQuantification.jl
+# Experimental Bayesian Model Updating Benchmark in UncertaintyQuantification.jl
 
 Code and data for the benchmark study in  
 *Bayesian Model Updating of Structural Dynamics: A 4-DOF Experimental Benchmark Using UncertaintyQuantification.jl* (EURODYN 2026 submission).
