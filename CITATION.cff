@@ -20,9 +20,14 @@ authors:
     email: grashorn@hsu-hh.de
     affiliation: Helmut Schmidt University Hamburg
     orcid: 'https://orcid.org/0000-0003-1820-1372'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21803039
+    description: Zenodo
+repository-code: 'https://github.com/lukasfritsch/Experimental-Model-Updating-Benchmark'
 keywords:
   - Structural Dynamics
   - Experiments
   - Bayesian inference
   - Julia
-license: MIT
+license: CC BY-NC 4.0
