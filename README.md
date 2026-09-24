@@ -1,5 +1,7 @@
 # Experimental Bayesian Model Updating Benchmark in UncertaintyQuantification.jl
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21803039.svg)](https://doi.org/10.5281/zenodo.21803039)
+
 Code and data for the benchmark study in  
 *Bayesian Model Updating of Structural Dynamics: A 4-DOF Experimental Benchmark Using UncertaintyQuantification.jl* (EURODYN 2026 submission).
 
