@@ -1,9 +1,10 @@
 # Experimental Bayesian Model Updating Benchmark in UncertaintyQuantification.jl
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21803039.svg)](https://doi.org/10.5281/zenodo.21803039)
+[![Static Badge](https://img.shields.io/badge/Paper-10.47964%2F1326.10869.401-yellow)](https://doi.org/10.47964/1326.10869.401)
 
 Code and data for the benchmark study in  
-*Bayesian Model Updating of Structural Dynamics: A 4-DOF Experimental Benchmark Using UncertaintyQuantification.jl* (EURODYN 2026 submission).
+*Bayesian Model Updating of Structural Dynamics: A 4-DOF Experimental Benchmark Using UncertaintyQuantification.jl* ([EURODYN 2026)](https://www.easdprocedia.org/conferences/easd-conferences/eurodyn-2026/10869).
 
 
 This repository demonstrates Bayesian model updating for a 4-DOF structural dynamics benchmark using the [UncertaintyQuantification.jl](https://github.com/juliauq/UncertaintyQuantification.jl) package.
